@@ -1,3 +1,6 @@
+#UPDATE
+I reworked a majority of code and included some new graphs to look at the return distributions.
+
 # SPY_WeekdayAnalysis
 Analysis on SPY prices based on the specific weekday.
 Data is pulled from Yahoo Finance using python package YFinance.
